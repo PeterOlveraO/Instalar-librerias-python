@@ -1,4 +1,4 @@
-##Comandos para instalar librerias de python en un entorno virtual || -usa Set-ExecutionPolicy Bypass -Scope Process -Force Antes de todo para poder ejecutar scripst
+## Comandos para instalar librerias de python en un entorno virtual || -usa Set-ExecutionPolicy Bypass -Scope Process -Force Antes de todo para poder ejecutar scripst
 Se hace por medio de ir instalando las librerias por proyectos osea en entornos virtuales osea se instalan las librerias no globalmente
 
 //Este paso 2 es para crear la carpeta .venv en caso de ser la primera ves en instalar una libreria del proyecto
